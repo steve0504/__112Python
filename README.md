@@ -11,3 +11,6 @@ https://requests.readthedocs.io/en/latest/user/install/#install
 
 #Online JSON Viewer 專門讀取json程式碼
 https://jsonviewer.stack.hu/
+
+#強制上傳 在終端機上面打
+git push -f
